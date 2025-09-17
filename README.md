@@ -59,7 +59,3 @@ python compressor.py
 
 ## Licença
 Projeto livre para uso pessoal e estudos.
-
-----
-
-Se quiser que eu ajuste o nome do projeto ou adicione um `logo`/icones, posso incluir também um `LICENSE` e `CONTRIBUTING.md` simples.
