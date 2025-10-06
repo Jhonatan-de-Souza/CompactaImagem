@@ -1,4 +1,6 @@
 customtkinter
 Pillow
-pyheif
+cx-Freeze
+lief
+pillow-heif
 tqdm
