@@ -1,6 +1,6 @@
-# ComprimeFácil
+# CompactaImagem
 
-ComprimeFácil é uma ferramenta simples para comprimir e otimizar imagens (JPEG, PNG, HEIC) com uma interface gráfica amigável construída em `customtkinter`.
+CompactaImagem é uma ferramenta simples para comprimir e otimizar imagens (JPEG, PNG, HEIC) com uma interface gráfica amigável construída em `customtkinter`.
 
 ## Objetivo
 O projeto tem como objetivo permitir que usuários reduzam o tamanho de imagens rapidamente sem a necessidade de conhecimento técnico. É ideal para reduzir espaço em disco ou preparar imagens para envio na web.
@@ -59,7 +59,3 @@ python compressor.py
 
 ## Licença
 Projeto livre para uso pessoal e estudos.
-
-----
-
-Se quiser que eu ajuste o nome do projeto ou adicione um `logo`/icones, posso incluir também um `LICENSE` e `CONTRIBUTING.md` simples.
